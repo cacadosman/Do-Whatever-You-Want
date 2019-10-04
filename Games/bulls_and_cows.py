@@ -31,8 +31,11 @@ def Title():
             print('Invalid Type! Try again.')
             continue
         break
-
-
+        
+def ExtraFunc():
+    print("This is a secret text!")
+    print(random.randint(0,19)
+          
 def SecretNumbers():
     secret_number = [0, 0, 0, 0]
     for i in range(4):
