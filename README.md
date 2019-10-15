@@ -6,3 +6,5 @@ Lakukan PULL REQUEST sesuka hati anda untuk memenuhi progress dari Hacktoberfest
 Dilarang PR hal yang berbau SARA, Pornografi, Politik, Badwords, dan lain-lain demi menjaga ketentraman.
 <br><br>
 KALAU CONFLICT DIBENERIN SENDIRI YA, KALO DIBIARIN AJA NANTI SAIA TAMPOL :*
+
+![Ward](ward.jpg)
