@@ -1,0 +1,9 @@
+x = 'http://1.1.1.1 &@2.2.2.2# @3.3.3.3/'
+
+y = 'http://0x7f.0x00.0x00.0x01/'
+z = 'http://0177.0.0.1'
+a = 'http://2130706433'
+
+# DNS Rebinding
+b = 'http://7f000001.01010101.rbndr.us/admin-status'
+c = 'make-123.123.123.123-rebind-127.0.0.1-rr.1u.ms'
